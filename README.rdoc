@@ -1,0 +1,1 @@
+Your first rails app. From Lean Ruby on Rails in 20mins.
